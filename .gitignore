@@ -30,4 +30,4 @@ test_db/
 *.sublime-workspace
 media/*
 static/*
-mcbv/
+mcbv
