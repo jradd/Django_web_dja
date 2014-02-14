@@ -3,6 +3,14 @@
 *.sw[po]
 *.egg*
 .coverage
+.ropeproject
+bin/
+conf/
+docs/
+lib/
+Vagrantfile
+fabfile.py
+install_requirements.sh
 pip-log.txt
 docs/_gh-pages
 build.py
